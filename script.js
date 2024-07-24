@@ -7,11 +7,6 @@ let count = firstbatch + secondbatch
 
 console.log(count)
 
-// 1. Create a variable, myAge, and set its value to your age
-// let myAge = 24
-// 2. Log the myAge variable to the console
-// console.log(myAge)
-
 
 // 1. Create two variables, myAge and humanDogRatio
 let myAge = 24
